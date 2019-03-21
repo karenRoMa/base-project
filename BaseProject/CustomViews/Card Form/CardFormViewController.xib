@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CardFormViewController" customModule="BaseProject" customModuleProvider="target">
+            <connections>
+                <outlet property="cardHolderTextField" destination="gFE-mu-BcN" id="Xrl-D3-E07"/>
+                <outlet property="cardHolderTitleLabel" destination="afD-fJ-TtN" id="rZg-sO-FVn"/>
+                <outlet property="cardNumberTextField" destination="BUG-DU-8CZ" id="NfO-lD-VLy"/>
+                <outlet property="cardNumberTitleLabel" destination="PeP-ab-e71" id="Der-8D-1dF"/>
+                <outlet property="cvvTextField" destination="lBW-vi-A1I" id="UVK-3r-RyI"/>
+                <outlet property="cvvTitleLabel" destination="B3R-1U-Zw7" id="l5U-Af-uLL"/>
+                <outlet property="expirationTextField" destination="7NM-cX-qCs" id="J3d-2D-L5G"/>
+                <outlet property="expirationTitleLabel" destination="gar-MW-7vR" id="ySr-4C-8pX"/>
+                <outlet property="registerCardButton" destination="udR-Ol-z3K" id="aAS-es-FlX"/>
+                <outlet property="registerCardTitlteLabel" destination="Prw-jL-VEA" id="HPY-tB-t7I"/>
+                <outlet property="view" destination="lYO-H3-F7X" id="pxk-vx-gdl"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="lYO-H3-F7X">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="register_card_title" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Prw-jL-VEA">
+                    <rect key="frame" x="62" y="73" width="251" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="register_card_number_title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PeP-ab-e71">
+                    <rect key="frame" x="15" y="118" width="200.5" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="BUG-DU-8CZ" customClass="BindingTextField" customModule="BaseProject" customModuleProvider="target">
+                    <rect key="frame" x="15" y="149" width="345" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="KkB-cP-FVU"/>
+                    </constraints>
+                    <nil key="textColor"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits" keyboardType="numberPad" smartInsertDeleteType="no"/>
+                </textField>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="register_card_holder_name_title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="afD-fJ-TtN">
+                    <rect key="frame" x="15" y="224" width="239.5" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="gFE-mu-BcN" customClass="BindingTextField" customModule="BaseProject" customModuleProvider="target">
+                    <rect key="frame" x="15" y="255" width="345" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="vOD-oQ-cW1"/>
+                    </constraints>
+                    <nil key="textColor"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits"/>
+                </textField>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="register_card_expiration_title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gar-MW-7vR">
+                    <rect key="frame" x="15" y="330" width="150" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="7NM-cX-qCs" customClass="BindingTextField" customModule="BaseProject" customModuleProvider="target">
+                    <rect key="frame" x="15" y="361" width="150" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="gkx-R2-Uig"/>
+                    </constraints>
+                    <nil key="textColor"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits"/>
+                </textField>
+                <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="lBW-vi-A1I" customClass="BindingTextField" customModule="BaseProject" customModuleProvider="target">
+                    <rect key="frame" x="210" y="361" width="150" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="G5u-av-Tl6"/>
+                    </constraints>
+                    <nil key="textColor"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
+                </textField>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="udR-Ol-z3K" customClass="LoadingButton" customModule="BaseProject" customModuleProvider="target">
+                    <rect key="frame" x="30" y="446" width="315" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="etF-nv-y9a"/>
+                    </constraints>
+                    <state key="normal" title="register_card_button_text"/>
+                    <connections>
+                        <action selector="registerCard:" destination="-1" eventType="touchUpInside" id="eKF-fl-ZR5"/>
+                    </connections>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="register_card_ccv_title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="B3R-1U-Zw7">
+                    <rect key="frame" x="210" y="330" width="150" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="B3R-1U-Zw7" firstAttribute="width" secondItem="rpJ-pR-VHQ" secondAttribute="width" multiplier="0.4" id="00j-14-mD0"/>
+                <constraint firstItem="lBW-vi-A1I" firstAttribute="width" secondItem="B3R-1U-Zw7" secondAttribute="width" id="0lU-N5-7OM"/>
+                <constraint firstItem="Prw-jL-VEA" firstAttribute="centerY" secondItem="lYO-H3-F7X" secondAttribute="centerY" multiplier="0.25" id="2md-R6-X6H"/>
+                <constraint firstItem="gar-MW-7vR" firstAttribute="leading" secondItem="rpJ-pR-VHQ" secondAttribute="leading" constant="15" id="5jr-oD-aM6"/>
+                <constraint firstItem="rpJ-pR-VHQ" firstAttribute="trailing" secondItem="gFE-mu-BcN" secondAttribute="trailing" constant="15" id="6Bs-6f-gN2"/>
+                <constraint firstItem="gar-MW-7vR" firstAttribute="width" secondItem="rpJ-pR-VHQ" secondAttribute="width" multiplier="0.4" id="8Zj-qZ-bmC"/>
+                <constraint firstItem="udR-Ol-z3K" firstAttribute="top" secondItem="7NM-cX-qCs" secondAttribute="bottom" constant="35" id="FIO-xV-khP"/>
+                <constraint firstItem="gFE-mu-BcN" firstAttribute="top" secondItem="afD-fJ-TtN" secondAttribute="bottom" constant="10" id="Ghb-nT-bMO"/>
+                <constraint firstItem="BUG-DU-8CZ" firstAttribute="leading" secondItem="rpJ-pR-VHQ" secondAttribute="leading" constant="15" id="JAk-ZW-fSx"/>
+                <constraint firstItem="rpJ-pR-VHQ" firstAttribute="trailing" secondItem="udR-Ol-z3K" secondAttribute="trailing" constant="30" id="Pam-yK-z0S"/>
+                <constraint firstItem="rpJ-pR-VHQ" firstAttribute="trailing" secondItem="Prw-jL-VEA" secondAttribute="trailing" constant="62" id="RL0-pb-xJR"/>
+                <constraint firstItem="PeP-ab-e71" firstAttribute="top" secondItem="Prw-jL-VEA" secondAttribute="bottom" constant="24" id="UgG-L6-7kS"/>
+                <constraint firstItem="B3R-1U-Zw7" firstAttribute="top" secondItem="gFE-mu-BcN" secondAttribute="bottom" constant="25" id="Wfx-tC-3hT"/>
+                <constraint firstItem="gFE-mu-BcN" firstAttribute="leading" secondItem="rpJ-pR-VHQ" secondAttribute="leading" constant="15" id="Xx7-18-xJr"/>
+                <constraint firstItem="afD-fJ-TtN" firstAttribute="leading" secondItem="rpJ-pR-VHQ" secondAttribute="leading" constant="15" id="Ygu-rd-wuE"/>
+                <constraint firstItem="PeP-ab-e71" firstAttribute="leading" secondItem="rpJ-pR-VHQ" secondAttribute="leading" constant="15" id="YsP-hd-s0P"/>
+                <constraint firstItem="7NM-cX-qCs" firstAttribute="leading" secondItem="rpJ-pR-VHQ" secondAttribute="leading" constant="15" id="Z8w-ZE-ucY"/>
+                <constraint firstItem="rpJ-pR-VHQ" firstAttribute="trailing" secondItem="lBW-vi-A1I" secondAttribute="trailing" constant="15" id="b6t-5I-zJb"/>
+                <constraint firstItem="rpJ-pR-VHQ" firstAttribute="trailing" secondItem="B3R-1U-Zw7" secondAttribute="trailing" constant="15" id="eXD-9K-GAY"/>
+                <constraint firstItem="lBW-vi-A1I" firstAttribute="top" secondItem="B3R-1U-Zw7" secondAttribute="bottom" constant="10" id="ebM-rJ-MeC"/>
+                <constraint firstItem="7NM-cX-qCs" firstAttribute="width" secondItem="gar-MW-7vR" secondAttribute="width" id="gva-qJ-KYf"/>
+                <constraint firstItem="udR-Ol-z3K" firstAttribute="leading" secondItem="rpJ-pR-VHQ" secondAttribute="leading" constant="30" id="jsu-hX-VLk"/>
+                <constraint firstItem="7NM-cX-qCs" firstAttribute="top" secondItem="gar-MW-7vR" secondAttribute="bottom" constant="10" id="mE0-Zk-h6O"/>
+                <constraint firstItem="gar-MW-7vR" firstAttribute="top" secondItem="gFE-mu-BcN" secondAttribute="bottom" constant="25" id="puV-BH-WRd"/>
+                <constraint firstItem="BUG-DU-8CZ" firstAttribute="top" secondItem="PeP-ab-e71" secondAttribute="bottom" constant="10" id="vuK-Vf-Ylj"/>
+                <constraint firstItem="Prw-jL-VEA" firstAttribute="leading" secondItem="rpJ-pR-VHQ" secondAttribute="leading" constant="62" id="wnu-AN-E7w"/>
+                <constraint firstItem="afD-fJ-TtN" firstAttribute="top" secondItem="BUG-DU-8CZ" secondAttribute="bottom" constant="25" id="ybh-ND-4uv"/>
+                <constraint firstItem="rpJ-pR-VHQ" firstAttribute="trailing" secondItem="BUG-DU-8CZ" secondAttribute="trailing" constant="15" id="yjb-y4-6eu"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="rpJ-pR-VHQ"/>
+        </view>
+    </objects>
+</document>

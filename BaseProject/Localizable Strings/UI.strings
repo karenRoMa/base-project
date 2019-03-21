@@ -1,0 +1,28 @@
+/* 
+  UI.strings
+  BaseProject
+
+  Created by Karen Rodriguez on 3/14/19.
+  Copyright © 2019 Karen Rodriguez. All rights reserved.
+*/
+
+
+// MARK: - Payment Framework -
+
+// Card Form
+
+"register_card_title" = "Registra una tarjeta";
+"register_card_number_title" = "NÚMERO DE TARJETA";
+"register_card_holder_name_title" = "TITULAR";
+"register_card_expiration_title" = "MM/AA";
+"register_card_ccv_title" = "CVV";
+
+"register_card_button_text" = "REGISTRAR";
+
+// Payment Feature
+
+"register_card" = "Register new card";
+"cards_list" = "Registered Cards";
+"requests" = "Available Requests";
+
+

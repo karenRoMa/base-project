@@ -1,0 +1,2287 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Conekta/ConektaClient.swift",
+      "line": 20,
+      "symbol": "ConektaClient.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Conekta/ConektaClient.swift",
+      "line": 26,
+      "symbol": "ConektaClient.conektaInstance",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Conekta/ConektaClient.swift",
+      "line": 33,
+      "symbol": "ConektaClient.publicKey",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/Card.swift",
+      "line": 11,
+      "symbol": "Card",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/Card.swift",
+      "line": 12,
+      "symbol": "Card.holder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/Card.swift",
+      "line": 13,
+      "symbol": "Card.number",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/Card.swift",
+      "line": 14,
+      "symbol": "Card.cvv",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/Card.swift",
+      "line": 15,
+      "symbol": "Card.expirationMonth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/Card.swift",
+      "line": 16,
+      "symbol": "Card.expirationYear",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/Card.swift",
+      "line": 17,
+      "symbol": "Card.brand",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/Card.swift",
+      "line": 18,
+      "symbol": "Card.token",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/Card.swift",
+      "line": 19,
+      "symbol": "Card.isSelected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/CardBrand.swift",
+      "line": 21,
+      "symbol": "CardBrand.american_express",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/CardBrand.swift",
+      "line": 22,
+      "symbol": "CardBrand.visa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/CardBrand.swift",
+      "line": 23,
+      "symbol": "CardBrand.mastercard",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/RequestMethod.swift",
+      "line": 23,
+      "symbol": "RequestMethod.post",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/RequestMethod.swift",
+      "line": 24,
+      "symbol": "RequestMethod.get",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/RequestMethod.swift",
+      "line": 25,
+      "symbol": "RequestMethod.put",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/RequestMethod.swift",
+      "line": 26,
+      "symbol": "RequestMethod.delete",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Models/RequestMethod.swift",
+      "line": 29,
+      "symbol": "RequestMethod.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/PaymentRouter.swift",
+      "line": 97,
+      "symbol": "PaymentRouter.singleChargeByAmount(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/PaymentRouter.swift",
+      "line": 98,
+      "symbol": "PaymentRouter.singleChargeByCard(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/PaymentRouter.swift",
+      "line": 99,
+      "symbol": "PaymentRouter.departmentStoreCharge(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/PaymentRouter.swift",
+      "line": 103,
+      "symbol": "PaymentRouter.generateClient(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/PaymentRouter.swift",
+      "line": 104,
+      "symbol": "PaymentRouter.associatePaymentToClient(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/PaymentRouter.swift",
+      "line": 105,
+      "symbol": "PaymentRouter.getClientInformation(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/PaymentRouter.swift",
+      "line": 109,
+      "symbol": "PaymentRouter.jsonDecoder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/PaymentRouter.swift",
+      "line": 165,
+      "symbol": "PaymentRouter.responseType(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/PaymentRouter.swift",
+      "line": 218,
+      "symbol": "PaymentRouter.performRequest(completionBlock:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 11,
+      "symbol": "ClientInformationResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 12,
+      "symbol": "ClientInformationResponse.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 13,
+      "symbol": "ClientInformationResponse.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 14,
+      "symbol": "ClientInformationResponse.email",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 15,
+      "symbol": "ClientInformationResponse.phone",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 16,
+      "symbol": "ClientInformationResponse.payment_sources",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 18,
+      "symbol": "ClientInformationResponse.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 19,
+      "symbol": "ClientInformationResponse.CodingKeys.id",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 20,
+      "symbol": "ClientInformationResponse.CodingKeys.name",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 21,
+      "symbol": "ClientInformationResponse.CodingKeys.email",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 22,
+      "symbol": "ClientInformationResponse.CodingKeys.phone",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 23,
+      "symbol": "ClientInformationResponse.CodingKeys.payment_sources",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 29,
+      "symbol": "PaymentSource",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 30,
+      "symbol": "PaymentSource.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 31,
+      "symbol": "PaymentSource.last4",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 32,
+      "symbol": "PaymentSource.brand",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 33,
+      "symbol": "PaymentSource.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 35,
+      "symbol": "PaymentSource.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 36,
+      "symbol": "PaymentSource.CodingKeys.id",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 37,
+      "symbol": "PaymentSource.CodingKeys.last4",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 38,
+      "symbol": "PaymentSource.CodingKeys.brand",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/ClientInformationResponse.swift",
+      "line": 39,
+      "symbol": "PaymentSource.CodingKeys.name",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/CreateSingleChargeResponse.swift",
+      "line": 11,
+      "symbol": "CreateSingleChargeResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/CreateSingleChargeResponse.swift",
+      "line": 12,
+      "symbol": "CreateSingleChargeResponse.payment_id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/CreateSingleChargeResponse.swift",
+      "line": 13,
+      "symbol": "CreateSingleChargeResponse.reference",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/CreateSingleChargeResponse.swift",
+      "line": 14,
+      "symbol": "CreateSingleChargeResponse.amount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/CreateSingleChargeResponse.swift",
+      "line": 16,
+      "symbol": "CreateSingleChargeResponse.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/CreateSingleChargeResponse.swift",
+      "line": 17,
+      "symbol": "CreateSingleChargeResponse.CodingKeys.payment_id",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/CreateSingleChargeResponse.swift",
+      "line": 18,
+      "symbol": "CreateSingleChargeResponse.CodingKeys.reference",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/CreateSingleChargeResponse.swift",
+      "line": 19,
+      "symbol": "CreateSingleChargeResponse.CodingKeys.amount",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/GenerateClientResponse.swift",
+      "line": 11,
+      "symbol": "GenerateClientResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/GenerateClientResponse.swift",
+      "line": 12,
+      "symbol": "GenerateClientResponse.customer_id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/GenerateClientResponse.swift",
+      "line": 13,
+      "symbol": "GenerateClientResponse.payment_source_id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/GenerateClientResponse.swift",
+      "line": 15,
+      "symbol": "GenerateClientResponse.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/GenerateClientResponse.swift",
+      "line": 16,
+      "symbol": "GenerateClientResponse.CodingKeys.customer_id",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/APIs/Payment API/Response Models/GenerateClientResponse.swift",
+      "line": 17,
+      "symbol": "GenerateClientResponse.CodingKeys.payment_source_id",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/BindingTextField.swift",
+      "line": 11,
+      "symbol": "handle",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/BindingTextField.swift",
+      "line": 13,
+      "symbol": "BindingTextField",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/BindingTextField.swift",
+      "line": 17,
+      "symbol": "BindingTextField.textChanged",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/BindingTextField.swift",
+      "line": 19,
+      "symbol": "BindingTextField.dynamic",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/BindingTextField.swift",
+      "line": 21,
+      "symbol": "BindingTextField.bindText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/BindingTextField.swift",
+      "line": 33,
+      "symbol": "BindingTextField.bind(callback:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/BindingTextField.swift",
+      "line": 38,
+      "symbol": "BindingTextField.bidirectionalBind(dynamic:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/BindingTextField.swift",
+      "line": 44,
+      "symbol": "BindingTextField.textFieldDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/Bounds.swift",
+      "line": 11,
+      "symbol": "Bond",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/Bounds.swift",
+      "line": 12,
+      "symbol": "Bond.Listener",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/Bounds.swift",
+      "line": 14,
+      "symbol": "Bond.listener",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/Bounds.swift",
+      "line": 16,
+      "symbol": "Bond.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/Bounds.swift",
+      "line": 20,
+      "symbol": "Bond.bind(dynamic:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/Bounds.swift",
+      "line": 25,
+      "symbol": "BondBox",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/Bounds.swift",
+      "line": 26,
+      "symbol": "BondBox.bond",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/Bounds.swift",
+      "line": 27,
+      "symbol": "BondBox.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/Dynamic.swift",
+      "line": 11,
+      "symbol": "Dynamic",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/Dynamic.swift",
+      "line": 12,
+      "symbol": "Dynamic.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/Dynamic.swift",
+      "line": 20,
+      "symbol": "Dynamic.bonds",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Bind/Dynamic.swift",
+      "line": 22,
+      "symbol": "Dynamic.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Extensions/UIColorExtension.swift",
+      "line": 25,
+      "symbol": "UIColor.pink(opacity:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Extensions/UIColorExtension.swift",
+      "line": 29,
+      "symbol": "UIColor.cream(opacity:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Extensions/UIColorExtension.swift",
+      "line": 33,
+      "symbol": "UIColor.palidPink(opacity:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Extensions/UIColorExtension.swift",
+      "line": 37,
+      "symbol": "UIColor.palidPurple(opacity:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Extensions/UIColorExtension.swift",
+      "line": 41,
+      "symbol": "UIColor.darkSkyBlue(opacity:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Extensions/UILabelExtension.swift",
+      "line": 19,
+      "symbol": "UILabel.emptyLabel(withText:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Extensions/UIViewControllerExtension.swift",
+      "line": 13,
+      "symbol": "UIViewController.showCustomAlert(withText:okText:hideCancel:delegate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Extensions/UIViewExtension.swift",
+      "line": 27,
+      "symbol": "UIView.round(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Extensions/UIViewExtension.swift",
+      "line": 36,
+      "symbol": "UIView.applyHorizontalGradient(colors:locations:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Extensions/UIViewExtension.swift",
+      "line": 46,
+      "symbol": "UIView.applyGradient(colors:locations:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/Extensions/UIViewExtension.swift",
+      "line": 54,
+      "symbol": "UIView.applyShadow(color:opacity:radius:verticalOffset:horizontalOffset:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/LoadingButton.swift",
+      "line": 16,
+      "symbol": "LoadingButton.ButtonState",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/LoadingButton.swift",
+      "line": 17,
+      "symbol": "LoadingButton.ButtonState.state",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/LoadingButton.swift",
+      "line": 18,
+      "symbol": "LoadingButton.ButtonState.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/LoadingButton.swift",
+      "line": 19,
+      "symbol": "LoadingButton.ButtonState.image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/LoadingButton.swift",
+      "line": 22,
+      "symbol": "LoadingButton.buttonStates",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/ProjectSingleton.swift",
+      "line": 22,
+      "symbol": "ProjectSingleton.cardSelectedIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Classes/ProjectSingleton.swift",
+      "line": 23,
+      "symbol": "ProjectSingleton.cards",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Coordinator/Coordinator.swift",
+      "line": 11,
+      "symbol": "Coordinator",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Coordinator/Coordinator.swift",
+      "line": 13,
+      "symbol": "Coordinator.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Coordinator/Coordinator.swift",
+      "line": 16,
+      "symbol": "Coordinator.rootNavigationController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Coordinator/Coordinator.swift",
+      "line": 18,
+      "symbol": "Coordinator.start()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Coordinator/MainCoordinator.swift",
+      "line": 12,
+      "symbol": "MainCoordinator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Coordinator/MainCoordinator.swift",
+      "line": 14,
+      "symbol": "MainCoordinator.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Coordinator/MainCoordinator.swift",
+      "line": 17,
+      "symbol": "MainCoordinator.rootNavigationController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Coordinator/MainCoordinator.swift",
+      "line": 18,
+      "symbol": "MainCoordinator.mainController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Coordinator/MainCoordinator.swift",
+      "line": 29,
+      "symbol": "MainCoordinator.init(window:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Coordinator/MainCoordinator.swift",
+      "line": 48,
+      "symbol": "MainCoordinator.startApp()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Coordinator/MainCoordinator.swift",
+      "line": 60,
+      "symbol": "MainCoordinator.goToFrameworkDetail(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Coordinator/MainCoordinator.swift",
+      "line": 72,
+      "symbol": "MainCoordinator.showRequestDetail(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": null,
+      "symbol": "CardFormViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": null,
+      "symbol": "CardFormViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 11,
+      "symbol": "CardFormViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 15,
+      "symbol": "CardFormViewController.nibName",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 19,
+      "symbol": "CardFormViewController.registerCardTitlteLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 20,
+      "symbol": "CardFormViewController.cardNumberTitleLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 21,
+      "symbol": "CardFormViewController.cardNumberTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 22,
+      "symbol": "CardFormViewController.cardHolderTitleLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 23,
+      "symbol": "CardFormViewController.cardHolderTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 24,
+      "symbol": "CardFormViewController.expirationTitleLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 25,
+      "symbol": "CardFormViewController.expirationTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 26,
+      "symbol": "CardFormViewController.cvvTitleLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 27,
+      "symbol": "CardFormViewController.cvvTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 28,
+      "symbol": "CardFormViewController.registerCardButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 33,
+      "symbol": "CardFormViewController.viewModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 37,
+      "symbol": "CardFormViewController.pickerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 38,
+      "symbol": "CardFormViewController.pickerMonthsAndYears",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 39,
+      "symbol": "CardFormViewController.expirationMonthSelected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 40,
+      "symbol": "CardFormViewController.expirationYearSelected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 44,
+      "symbol": "CardFormViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 52,
+      "symbol": "CardFormViewController.configureView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 72,
+      "symbol": "CardFormViewController.initViewModel()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 81,
+      "symbol": "CardFormViewController.registerCard(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 91,
+      "symbol": "CardFormViewController.pickerView(_:numberOfRowsInComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 95,
+      "symbol": "CardFormViewController.numberOfComponents(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 99,
+      "symbol": "CardFormViewController.pickerView(_:titleForRow:forComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 106,
+      "symbol": "CardFormViewController.pickerView(_:didSelectRow:inComponent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 126,
+      "symbol": "CardFormViewController.setFirstMonthInOptions()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 160,
+      "symbol": "CardFormViewController.changeRegisterButtonStatus(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewController.swift",
+      "line": 165,
+      "symbol": "CardFormViewController.finishRegister()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewModel.swift",
+      "line": 13,
+      "symbol": "CardFormViewModelDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewModel.swift",
+      "line": 14,
+      "symbol": "CardFormViewModelDelegate.showCustomAlert(withText:okText:hideCancel:delegate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewModel.swift",
+      "line": 15,
+      "symbol": "CardFormViewModelDelegate.changeRegisterButtonStatus(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewModel.swift",
+      "line": 16,
+      "symbol": "CardFormViewModelDelegate.finishRegister()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewModel.swift",
+      "line": 19,
+      "symbol": "CardFormViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewModel.swift",
+      "line": 26,
+      "symbol": "CardFormViewModel.errorMessage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewModel.swift",
+      "line": 33,
+      "symbol": "CardFormViewModel.card",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewModel.swift",
+      "line": 35,
+      "symbol": "CardFormViewModel.cardComplete()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewModel.swift",
+      "line": 63,
+      "symbol": "CardFormViewModel.addNewCreditCard()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/CardFormViewModel.swift",
+      "line": 84,
+      "symbol": "CardFormViewModel.textFieldDidChange()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/TextFields Delegates/CVVTextFieldDelegate.swift",
+      "line": 13,
+      "symbol": "CVVTextFieldDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/TextFields Delegates/CVVTextFieldDelegate.swift",
+      "line": 17,
+      "symbol": "CVVTextFieldDelegate.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/TextFields Delegates/CVVTextFieldDelegate.swift",
+      "line": 21,
+      "symbol": "CVVTextFieldDelegate.numbers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/TextFields Delegates/CVVTextFieldDelegate.swift",
+      "line": 25,
+      "symbol": "CVVTextFieldDelegate.textField(_:shouldChangeCharactersIn:replacementString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/TextFields Delegates/CardTextFieldDelegate.swift",
+      "line": 13,
+      "symbol": "CardTextFieldDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/TextFields Delegates/CardTextFieldDelegate.swift",
+      "line": 17,
+      "symbol": "CardTextFieldDelegate.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/TextFields Delegates/CardTextFieldDelegate.swift",
+      "line": 21,
+      "symbol": "CardTextFieldDelegate.actualSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/CustomViews/Card Form/TextFields Delegates/CardTextFieldDelegate.swift",
+      "line": 25,
+      "symbol": "CardTextFieldDelegate.textField(_:shouldChangeCharactersIn:replacementString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 11,
+      "symbol": "FontType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 12,
+      "symbol": "FontType.black",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 13,
+      "symbol": "FontType.blackItalic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 14,
+      "symbol": "FontType.bold",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 15,
+      "symbol": "FontType.boldItalic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 16,
+      "symbol": "FontType.light",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 17,
+      "symbol": "FontType.lightItalic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 18,
+      "symbol": "FontType.medium",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 19,
+      "symbol": "FontType.mediumItalic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 20,
+      "symbol": "FontType.regular",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 21,
+      "symbol": "FontType.semiBold",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 22,
+      "symbol": "FontType.semiBoldItalic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 23,
+      "symbol": "FontType.thin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 25,
+      "symbol": "FontType.fontName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FontType.swift",
+      "line": 29,
+      "symbol": "FontType.fullString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FrameworkType.swift",
+      "line": 11,
+      "symbol": "FrameworkType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FrameworkType.swift",
+      "line": 12,
+      "symbol": "FrameworkType.requests",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/FrameworkType.swift",
+      "line": 13,
+      "symbol": "FrameworkType.misc",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/PaymentFeature.swift",
+      "line": 11,
+      "symbol": "PaymentFeature",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/PaymentFeature.swift",
+      "line": 12,
+      "symbol": "PaymentFeature.registerCard",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/PaymentFeature.swift",
+      "line": 13,
+      "symbol": "PaymentFeature.cardsList",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/PaymentFeature.swift",
+      "line": 14,
+      "symbol": "PaymentFeature.requests",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/PaymentFeature.swift",
+      "line": 16,
+      "symbol": "PaymentFeature.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Enums/PaymentFeature.swift",
+      "line": 20,
+      "symbol": "PaymentFeature.controller",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/Alert/AlertViewController.swift",
+      "line": 14,
+      "symbol": "AlertDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/Alert/AlertViewController.swift",
+      "line": 85,
+      "symbol": "AlertViewController.configureView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/ErrorType.swift",
+      "line": 16,
+      "symbol": "ErrorType.ErrorKind",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/ErrorType.swift",
+      "line": 38,
+      "symbol": "ErrorType.ErrorKind.invalidCard",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/ErrorType.swift",
+      "line": 39,
+      "symbol": "ErrorType.ErrorKind.cardDeclined",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/ErrorType.swift",
+      "line": 40,
+      "symbol": "ErrorType.ErrorKind.invalidExpiryMonth",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/ErrorType.swift",
+      "line": 41,
+      "symbol": "ErrorType.ErrorKind.invalidExpiryYear",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/ErrorType.swift",
+      "line": 42,
+      "symbol": "ErrorType.ErrorKind.invalidCVC",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/ErrorType.swift",
+      "line": 78,
+      "symbol": "ErrorType.getKind(of:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/ErrorType.swift",
+      "line": 89,
+      "symbol": "ErrorType.isConektaError(response:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/HandlerError.swift",
+      "line": null,
+      "symbol": "HandlerError",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/HandlerError.swift",
+      "line": 11,
+      "symbol": "HandlerError",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/HandlerError.swift",
+      "line": 20,
+      "symbol": "HandlerError.coordinator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/HandlerError.swift",
+      "line": 25,
+      "symbol": "HandlerError.handle(withError:delegate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/HandlerError/HandlerError.swift",
+      "line": 32,
+      "symbol": "HandlerError.showAlert(with:delegate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/LaunchScreen/LaunchScreenViewController.swift",
+      "line": 12,
+      "symbol": "LaunchScreenViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/LaunchScreen/LaunchScreenViewController.swift",
+      "line": 14,
+      "symbol": "LaunchScreenViewController.animationView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/LaunchScreen/LaunchScreenViewController.swift",
+      "line": 16,
+      "symbol": "LaunchScreenViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/LaunchScreen/LaunchScreenViewController.swift",
+      "line": 21,
+      "symbol": "LaunchScreenViewController.configureView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Models/Framework.swift",
+      "line": 11,
+      "symbol": "Framework",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Models/Framework.swift",
+      "line": 12,
+      "symbol": "Framework.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Models/Framework.swift",
+      "line": 13,
+      "symbol": "Framework.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/Main Cell/MainTableViewCell.swift",
+      "line": 11,
+      "symbol": "MainTableViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/Main Cell/MainTableViewCell.swift",
+      "line": 15,
+      "symbol": "MainTableViewCell.nibName",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/Main Cell/MainTableViewCell.swift",
+      "line": 16,
+      "symbol": "MainTableViewCell.reuseIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/Main Cell/MainTableViewCell.swift",
+      "line": 17,
+      "symbol": "MainTableViewCell.rowHeight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/Main Cell/MainTableViewCell.swift",
+      "line": 21,
+      "symbol": "MainTableViewCell.titleLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/Main Cell/MainTableViewCell.swift",
+      "line": 25,
+      "symbol": "MainTableViewCell.framework",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/Main Cell/MainTableViewCell.swift",
+      "line": 29,
+      "symbol": "MainTableViewCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/Main Cell/MainTableViewCell.swift",
+      "line": 34,
+      "symbol": "MainTableViewCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/Main Cell/MainTableViewCell.swift",
+      "line": 49,
+      "symbol": "MainTableViewCell.configureCell()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": null,
+      "symbol": "MainViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": null,
+      "symbol": "MainViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": 14,
+      "symbol": "MainViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": 18,
+      "symbol": "MainViewController.singletonExample",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": 22,
+      "symbol": "MainViewController.titleLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": 23,
+      "symbol": "MainViewController.tableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": 37,
+      "symbol": "MainViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": 46,
+      "symbol": "MainViewController.configureView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": 51,
+      "symbol": "MainViewController.configureTableView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": 60,
+      "symbol": "MainViewController.initViewModel()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": 88,
+      "symbol": "MainViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": 92,
+      "symbol": "MainViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": 101,
+      "symbol": "MainViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": 115,
+      "symbol": "MainViewController.reloadUI()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewController.swift",
+      "line": 119,
+      "symbol": "MainViewController.delegateMethodExample()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewModel.swift",
+      "line": 14,
+      "symbol": "ViewModelDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewModel.swift",
+      "line": 15,
+      "symbol": "ViewModelDelegate.delegateMethodExample()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewModel.swift",
+      "line": 16,
+      "symbol": "ViewModelDelegate.reloadUI()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewModel.swift",
+      "line": 22,
+      "symbol": "ViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewModel.swift",
+      "line": 27,
+      "symbol": "ViewModel.frameworks",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewModel.swift",
+      "line": 31,
+      "symbol": "ViewModel.viewModelMethodExample()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Main/MainViewModel.swift",
+      "line": 40,
+      "symbol": "ViewModel.fetchFramework()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/Card Cell/CardTableViewCell.swift",
+      "line": 11,
+      "symbol": "CardTableViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/Card Cell/CardTableViewCell.swift",
+      "line": 15,
+      "symbol": "CardTableViewCell.nibName",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/Card Cell/CardTableViewCell.swift",
+      "line": 16,
+      "symbol": "CardTableViewCell.reuseIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/Card Cell/CardTableViewCell.swift",
+      "line": 17,
+      "symbol": "CardTableViewCell.rowHeight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/Card Cell/CardTableViewCell.swift",
+      "line": 21,
+      "symbol": "CardTableViewCell.cardTypeImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/Card Cell/CardTableViewCell.swift",
+      "line": 22,
+      "symbol": "CardTableViewCell.cardNumberLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/Card Cell/CardTableViewCell.swift",
+      "line": 23,
+      "symbol": "CardTableViewCell.activeCardIndicator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/Card Cell/CardTableViewCell.swift",
+      "line": 27,
+      "symbol": "CardTableViewCell.card",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/Card Cell/CardTableViewCell.swift",
+      "line": 31,
+      "symbol": "CardTableViewCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/Card Cell/CardTableViewCell.swift",
+      "line": 37,
+      "symbol": "CardTableViewCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/Card Cell/CardTableViewCell.swift",
+      "line": 53,
+      "symbol": "CardTableViewCell.configureCell()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/Card Cell/CardTableViewCell.swift",
+      "line": 61,
+      "symbol": "CardTableViewCell.updateCard(cardSelected:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/CardsListViewController.swift",
+      "line": null,
+      "symbol": "CardsListViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/CardsListViewController.swift",
+      "line": 11,
+      "symbol": "CardsListViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/CardsListViewController.swift",
+      "line": 15,
+      "symbol": "CardsListViewController.tableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/CardsListViewController.swift",
+      "line": 19,
+      "symbol": "CardsListViewController.emptyDataLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/CardsListViewController.swift",
+      "line": 29,
+      "symbol": "CardsListViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/CardsListViewController.swift",
+      "line": 35,
+      "symbol": "CardsListViewController.configureTableView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/CardsListViewController.swift",
+      "line": 51,
+      "symbol": "CardsListViewController.reloadTableView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/CardsListViewController.swift",
+      "line": 56,
+      "symbol": "CardsListViewController.manageEmptyLabel(hidden:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/CardsListViewController.swift",
+      "line": 73,
+      "symbol": "CardsListViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/CardsList/CardsListViewController.swift",
+      "line": 77,
+      "symbol": "CardsListViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Feature Cell/PaymentFeatureCollectionViewCell.swift",
+      "line": 11,
+      "symbol": "PaymentFeatureCollectionViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Feature Cell/PaymentFeatureCollectionViewCell.swift",
+      "line": 15,
+      "symbol": "PaymentFeatureCollectionViewCell.nibName",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Feature Cell/PaymentFeatureCollectionViewCell.swift",
+      "line": 16,
+      "symbol": "PaymentFeatureCollectionViewCell.reuseIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Feature Cell/PaymentFeatureCollectionViewCell.swift",
+      "line": 17,
+      "symbol": "PaymentFeatureCollectionViewCell.rowHeight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Feature Cell/PaymentFeatureCollectionViewCell.swift",
+      "line": 21,
+      "symbol": "PaymentFeatureCollectionViewCell.featureTitleLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Feature Cell/PaymentFeatureCollectionViewCell.swift",
+      "line": 22,
+      "symbol": "PaymentFeatureCollectionViewCell.selectedIndicator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Feature Cell/PaymentFeatureCollectionViewCell.swift",
+      "line": 26,
+      "symbol": "PaymentFeatureCollectionViewCell.isSelected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Feature Cell/PaymentFeatureCollectionViewCell.swift",
+      "line": 32,
+      "symbol": "PaymentFeatureCollectionViewCell.feature",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Feature Cell/PaymentFeatureCollectionViewCell.swift",
+      "line": 34,
+      "symbol": "PaymentFeatureCollectionViewCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Feature Cell/PaymentFeatureCollectionViewCell.swift",
+      "line": 51,
+      "symbol": "PaymentFeatureCollectionViewCell.configureCell()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewController.swift",
+      "line": null,
+      "symbol": "RequestDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewController.swift",
+      "line": 11,
+      "symbol": "RequestDetailViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewController.swift",
+      "line": 15,
+      "symbol": "RequestDetailViewController.activityIndicator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewController.swift",
+      "line": 16,
+      "symbol": "RequestDetailViewController.responseTitleLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewController.swift",
+      "line": 17,
+      "symbol": "RequestDetailViewController.responseTextView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewController.swift",
+      "line": 18,
+      "symbol": "RequestDetailViewController.mainView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewController.swift",
+      "line": 22,
+      "symbol": "RequestDetailViewController.request",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewController.swift",
+      "line": 31,
+      "symbol": "RequestDetailViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewController.swift",
+      "line": 39,
+      "symbol": "RequestDetailViewController.configureView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewController.swift",
+      "line": 52,
+      "symbol": "RequestDetailViewController.initViewModel()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewController.swift",
+      "line": 58,
+      "symbol": "RequestDetailViewController.dismissDetail()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewController.swift",
+      "line": 71,
+      "symbol": "RequestDetailViewController.reloadUI(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewModel.swift",
+      "line": null,
+      "symbol": "RequestDetailViewModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewModel.swift",
+      "line": 14,
+      "symbol": "RequestDetailViewModelDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewModel.swift",
+      "line": 15,
+      "symbol": "RequestDetailViewModelDelegate.reloadUI(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewModel.swift",
+      "line": 16,
+      "symbol": "RequestDetailViewModelDelegate.dismissDetail()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewModel.swift",
+      "line": 22,
+      "symbol": "RequestDetailViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Request Detail /RequestDetailViewModel.swift",
+      "line": 31,
+      "symbol": "RequestDetailViewModel.performRequest(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Requests Framework Cell/RequestsFrameworkCollectionViewCell.swift",
+      "line": 11,
+      "symbol": "RequestsFrameworkCollectionViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Requests Framework Cell/RequestsFrameworkCollectionViewCell.swift",
+      "line": 15,
+      "symbol": "RequestsFrameworkCollectionViewCell.nibName",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Requests Framework Cell/RequestsFrameworkCollectionViewCell.swift",
+      "line": 16,
+      "symbol": "RequestsFrameworkCollectionViewCell.reuseIdentifier",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Requests Framework Cell/RequestsFrameworkCollectionViewCell.swift",
+      "line": 17,
+      "symbol": "RequestsFrameworkCollectionViewCell.rowHeight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Requests Framework Cell/RequestsFrameworkCollectionViewCell.swift",
+      "line": 21,
+      "symbol": "RequestsFrameworkCollectionViewCell.mainView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Requests Framework Cell/RequestsFrameworkCollectionViewCell.swift",
+      "line": 22,
+      "symbol": "RequestsFrameworkCollectionViewCell.requestTitleLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Requests Framework Cell/RequestsFrameworkCollectionViewCell.swift",
+      "line": 23,
+      "symbol": "RequestsFrameworkCollectionViewCell.requestMethodLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Requests Framework Cell/RequestsFrameworkCollectionViewCell.swift",
+      "line": 24,
+      "symbol": "RequestsFrameworkCollectionViewCell.requestPathLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Requests Framework Cell/RequestsFrameworkCollectionViewCell.swift",
+      "line": 28,
+      "symbol": "RequestsFrameworkCollectionViewCell.requestCase",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Requests Framework Cell/RequestsFrameworkCollectionViewCell.swift",
+      "line": 32,
+      "symbol": "RequestsFrameworkCollectionViewCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/Requests Framework Cell/RequestsFrameworkCollectionViewCell.swift",
+      "line": 50,
+      "symbol": "RequestsFrameworkCollectionViewCell.configureCell()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/RequestsListViewController.swift",
+      "line": null,
+      "symbol": "RequestsListViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/RequestsListViewController.swift",
+      "line": 11,
+      "symbol": "RequestsListViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/RequestsListViewController.swift",
+      "line": 15,
+      "symbol": "RequestsListViewController.collectionView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/RequestsListViewController.swift",
+      "line": 19,
+      "symbol": "RequestsListViewController.coordinator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/RequestsListViewController.swift",
+      "line": 21,
+      "symbol": "RequestsListViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/RequestsListViewController.swift",
+      "line": 26,
+      "symbol": "RequestsListViewController.configureCollectionView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/RequestsListViewController.swift",
+      "line": 43,
+      "symbol": "RequestsListViewController.collectionView(_:numberOfItemsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/RequestsListViewController.swift",
+      "line": 47,
+      "symbol": "RequestsListViewController.collectionView(_:cellForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/RequestsListViewController.swift",
+      "line": 56,
+      "symbol": "RequestsListViewController.collectionView(_:didSelectItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/Requests List/RequestsListViewController.swift",
+      "line": 64,
+      "symbol": "RequestsListViewController.collectionView(_:layout:sizeForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/RequestsFrameworkViewController.swift",
+      "line": null,
+      "symbol": "RequestsFrameworkViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/RequestsFrameworkViewController.swift",
+      "line": 11,
+      "symbol": "RequestsFrameworkViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/RequestsFrameworkViewController.swift",
+      "line": 17,
+      "symbol": "RequestsFrameworkViewController.collectionView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/RequestsFrameworkViewController.swift",
+      "line": 18,
+      "symbol": "RequestsFrameworkViewController.scrollView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/RequestsFrameworkViewController.swift",
+      "line": 19,
+      "symbol": "RequestsFrameworkViewController.featureView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/RequestsFrameworkViewController.swift",
+      "line": 29,
+      "symbol": "RequestsFrameworkViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/RequestsFrameworkViewController.swift",
+      "line": 37,
+      "symbol": "RequestsFrameworkViewController.configureView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/RequestsFrameworkViewController.swift",
+      "line": 45,
+      "symbol": "RequestsFrameworkViewController.configureCollectionView()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/RequestsFrameworkViewController.swift",
+      "line": 54,
+      "symbol": "RequestsFrameworkViewController.setFeatureView(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/RequestsFrameworkViewController.swift",
+      "line": 91,
+      "symbol": "RequestsFrameworkViewController.collectionView(_:numberOfItemsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/RequestsFrameworkViewController.swift",
+      "line": 95,
+      "symbol": "RequestsFrameworkViewController.collectionView(_:cellForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/RequestsFrameworkViewController.swift",
+      "line": 104,
+      "symbol": "RequestsFrameworkViewController.collectionView(_:didSelectItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Modules/Requests Framework/RequestsFrameworkViewController.swift",
+      "line": 112,
+      "symbol": "RequestsFrameworkViewController.collectionView(_:layout:sizeForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Navigation Controller/CustomNavigationController.swift",
+      "line": 14,
+      "symbol": "CustomNavigationController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/karenrodriguez/Documents/Repos/BaseProject/BaseProject/Navigation Controller/CustomNavigationController.swift",
+      "line": 15,
+      "symbol": "CustomNavigationController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/karenrodriguez/Documents/Repos/BaseProject"
+}

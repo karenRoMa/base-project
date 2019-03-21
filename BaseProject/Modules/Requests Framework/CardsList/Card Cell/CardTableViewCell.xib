@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="3s2-jB-0Yo" customClass="CardTableViewCell" customModule="BaseProject" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="45"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="3s2-jB-0Yo" id="CW4-3U-f9z">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="44.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="JD7-To-eSW">
+                        <rect key="frame" x="20" y="10" width="300" height="25"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="qe8-DO-xYk">
+                                <rect key="frame" x="0.0" y="0.0" width="30" height="25"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="25" id="Rs8-Y3-a5n"/>
+                                    <constraint firstAttribute="width" constant="30" id="UJq-OR-ySn"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="* * * * 482" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pfa-0S-igN">
+                                <rect key="frame" x="40" y="0.0" width="260" height="25"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="25" id="rKl-JQ-9Dx"/>
+                        </constraints>
+                    </stackView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="checkmark" translatesAutoresizingMaskIntoConstraints="NO" id="0cf-nT-EIc">
+                        <rect key="frame" x="340" y="17" width="15" height="11"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="15" id="65m-Xh-o5w"/>
+                            <constraint firstAttribute="height" constant="11" id="Hl0-CR-O23"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="0cf-nT-EIc" firstAttribute="centerY" secondItem="JD7-To-eSW" secondAttribute="centerY" id="251-Ec-jR2"/>
+                    <constraint firstItem="JD7-To-eSW" firstAttribute="centerY" secondItem="CW4-3U-f9z" secondAttribute="centerY" id="99i-kx-00G"/>
+                    <constraint firstAttribute="trailing" secondItem="0cf-nT-EIc" secondAttribute="trailing" constant="20" id="Ndm-ZB-SZh"/>
+                    <constraint firstItem="JD7-To-eSW" firstAttribute="leading" secondItem="CW4-3U-f9z" secondAttribute="leading" constant="20" id="bUb-aG-Mh6"/>
+                    <constraint firstItem="0cf-nT-EIc" firstAttribute="leading" secondItem="JD7-To-eSW" secondAttribute="trailing" constant="20" id="dtI-KC-yNB"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="a6p-nd-h30"/>
+            <connections>
+                <outlet property="activeCardIndicator" destination="0cf-nT-EIc" id="3e4-pR-MIU"/>
+                <outlet property="cardNumberLabel" destination="pfa-0S-igN" id="WUD-oQ-WVd"/>
+                <outlet property="cardTypeImage" destination="qe8-DO-xYk" id="ixp-gi-TEm"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="checkmark" width="16" height="16"/>
+    </resources>
+</document>
